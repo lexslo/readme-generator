@@ -1,0 +1,22 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": "node application that generates a professional readme file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lexslo/readme-generator.git"
+  },
+  "keywords": [
+    "readme-generator"
+  ],
+  "author": "Lex Slovik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lexslo/readme-generator/issues"
+  },
+  "homepage": "https://github.com/lexslo/readme-generator#readme"
+}
