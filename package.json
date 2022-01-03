@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/lexslo/readme-generator/issues"
   },
-  "homepage": "https://github.com/lexslo/readme-generator#readme"
+  "homepage": "https://github.com/lexslo/readme-generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
 }
