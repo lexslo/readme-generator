@@ -122,7 +122,9 @@ function init() {
 
 // Function call to initialize app
 init()
-  .then(writeToFile(README, questions))
+  .then((fileName, data) => {
+    return writeToFile('README', questions);
+  })
   .catch(err => {
     console.log(err);
   });
